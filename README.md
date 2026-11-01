@@ -12,6 +12,11 @@
   <a href="https://www.syntaxtoolbox.com/"><img src="https://img.shields.io/badge/syntaxtoolbox.com-111111?style=flat&logo=googlechrome&logoColor=white" alt="Syntax Toolbox"/></a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/soulehshaikh99?tab=followers"><img src="https://img.shields.io/github/followers/soulehshaikh99?style=flat&logo=github&label=Followers" alt="GitHub followers"/></a>
+  <img src="https://komarev.com/ghpvc/?username=soulehshaikh99&label=Profile%20views&style=flat" alt="Profile views"/>
+</p>
+
 ---
 
 ## About
