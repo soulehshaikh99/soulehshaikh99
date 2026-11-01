@@ -16,10 +16,20 @@
 
 ## About
 
-- Senior Software Engineer at **DronaHQ** since 2022. Built on the Studio platform (cloud and self-hosted), now working on **AI agents**.
+- Senior Software Engineer at **DronaHQ** since 2022. Worked on the Studio platform (cloud and self-hosted), and building **AI agents** since June 2025.
+- Single-handedly owned **Knowledge Base as a Service** at DronaHQ across research, development, testing and ongoing maintenance. Built the full stack: UI and frontend, backend, vector database integration, a document parsing layer on a third-party service, and custom chunking logic written from scratch.
 - Outside office hours, I build **[Syntax Toolbox](https://www.syntaxtoolbox.com/)**: free, fast, no-nonsense web tools for everyday tasks.
 - Syntax Toolbox is a long-term commitment. New tools ship continuously, and I plan to keep building it for years.
 - Interested in developer tooling, browser-first utilities, and clean UX.
+
+## Beyond Code
+
+- Cooking
+- Travelling, with a goal to see the world someday
+- Meeting and learning from fellow engineers
+- Learning new things, across tech and business
+- Wishing to learn Japanese and Arabic
+- Dreaming of building games, and maybe becoming a game developer someday
 
 ## Tech Stack
 
